@@ -2,9 +2,8 @@
 
 **<span class="smallcaps">Andrew Krechmer</span>**  
 613-501-5082 \|
-[<u>andrew.krechmer@gmail.com</u>](mailto:andrew.krechmer@gmail.com) \|
-[<u>linkedin.com/in/krechmer</u>](https://linkedin.com/in/krechmer) \|
-[<u>andrewkrechmer.com</u>](https://andrewkrechmer.com)
+[<u>andrew.krechmer@gmail.com</u>]\|
+[<u>linkedin.com/in/krechmer</u>] \|
 
 </div>
 
