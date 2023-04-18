@@ -1,8 +1,7 @@
 <div class="center">
-
-**<span class="smallcaps">Andrew Krechmer</span>**  
-613-501-5082 \
-<u>andrew.krechmer@gmail.com</u>\
+    
+613-501-5082 
+<u>andrew.krechmer@gmail.com</u>
     <u>linkedin.com/in/krechmer/</u>
 
 </div>
