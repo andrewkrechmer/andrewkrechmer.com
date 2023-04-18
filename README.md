@@ -1,6 +1,6 @@
 <div class="center">
     
-613-501-5082 | <u>andrew.krechmer@gmail.com</u> | <u>linkedin.com/in/krechmer/</u>
+613-501-5082 | <u>andrew.krechmer@gmail.com</u> | <u>linkedin.com/in/krechmer</u>
 
 </div>
 
