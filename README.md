@@ -21,9 +21,9 @@
 -   |                                                            |                     |
     |:-----------------------------------------------------------|--------------------:|
     | **Founder**                                                | Dec. 2022 – Present |
-    | *Sammi’s House (Dorm Room Poster Printing Small Business)* |      *Waterloo, ON* |
+    | *Sammi’s House (Dorm Room Poster and Canvas Printing Small Business)* |      *Waterloo, ON* |
 
-    -    Generated sales of $640 in Q1 2023
+    -    Generated sales of $6977 in the first half of 2023
 
     -    Raised $3000 of capital to purchase large format printing
         equipment and rights to prints
