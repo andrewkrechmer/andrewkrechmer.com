@@ -20,7 +20,7 @@
 
 -   |                                                            |                     |
     |:-----------------------------------------------------------|--------------------:|
-    | **IT Assistant**                                                | Dec. 2022 – Present |
+    | **IT Assistant**                                                | May. 2023 – Present |
     | *Tech Insights* |      *Ottawa, ON* |
 
 -   |                                                            |                     |
