@@ -20,8 +20,13 @@
 
 -   |                                                            |                     |
     |:-----------------------------------------------------------|--------------------:|
+    | **IT Assistant**                                                | Dec. 2022 – Present |
+    | *Tech Insights* |      *Ottawa, ON* |
+
+-   |                                                            |                     |
+    |:-----------------------------------------------------------|--------------------:|
     | **Founder**                                                | Dec. 2022 – Present |
-    | *Sammi’s House (Dorm Room Poster and Canvas Printing Small Business)* |      *Waterloo, ON* |
+    | *Sammi’s House (Dorm Room Poster and Canvas Printing Small Business)* |      *Ottawa, ON* |
 
     -    Generated sales of $977 in the first half of 2023
 
