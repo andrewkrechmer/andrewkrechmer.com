@@ -20,15 +20,20 @@
 
 -   |                                                            |                     |
     |:-----------------------------------------------------------|--------------------:|
-    | **IT Assistant**                                                | May. 2023 – Present |
+    | **IT Assistant**                                                | Jun. 2023 – Present |
     | *Tech Insights* |      *Ottawa, ON* |
+
+- Triaged over 500 support tickets from across the organization, qualifying inbound requests based on hardware/software dependencies, and prioritizing customer issues according to operational severity
+- Closed 394 support tickets by systematically identifying customers’ underlying needs through emails and calls, utilizing documentation and collaborating with IT to prepare effective solutions, presenting customers with contextually relevant recommendations, and following up with key stakeholders to ensure satisfaction
+- Diligently tracked the state of owned tickets and projects in JIRA Service Management and Monday.com, enabling seamless auditing and ensuring SLA compliance
+- Pitched to the corporate development director and successfully executed the retrofitting of ten conference rooms with USB-C docking stations, fulfilling the original initiative of increasing productivity in meetings while saving approximately $60,000 compared to the previously chosen solution
 
 -   |                                                            |                     |
     |:-----------------------------------------------------------|--------------------:|
     | **Founder**                                                | Dec. 2022 – Present |
     | *Sammi’s House (Dorm Room Poster and Canvas Printing Small Business)* |      *Ottawa, ON* |
 
-    -    Generated sales of $977 in the first half of 2023
+    -    Generated sales of $1221.87 in the first half of 2023
 
     -    Raised $3000 of capital to purchase large format printing
         equipment and rights to prints
