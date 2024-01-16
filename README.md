@@ -18,10 +18,10 @@
     | **IT Assistant**                                                | Jun. 2023 – Aug. 2023 |
     | *Tech Insights* |      *Ottawa, ON* |
 
-- Triaged over 500 support tickets from across the organization, qualifying inbound requests based on hardware/software dependencies, and prioritizing customer issues according to operational severity
-- Closed 394 support tickets by systematically identifying customers’ underlying needs through emails and calls, utilizing documentation and collaborating with IT to prepare effective solutions, presenting customers with contextually relevant recommendations, and following up with key stakeholders to ensure satisfaction
-- Diligently tracked the state of owned tickets and projects in JIRA Service Management and Monday.com, enabling seamless auditing and ensuring SLA compliance
-- Pitched to the corporate development director and successfully executed the retrofitting of ten conference rooms with USB-C docking stations, fulfilling the original initiative of increasing productivity in meetings while saving approximately $60,000 compared to the previously chosen solution
+    - Triaged over 500 support tickets from across the organization, qualifying inbound requests based on hardware/software dependencies, and prioritizing customer issues according to operational severity
+    - Closed 394 support tickets by systematically identifying customers’ underlying needs through emails and calls, utilizing documentation and collaborating with IT to prepare effective solutions, presenting customers with contextually relevant recommendations, and following up with key stakeholders to ensure satisfaction
+    - Diligently tracked the state of owned tickets and projects in JIRA Service Management and Monday.com, enabling seamless auditing and ensuring SLA compliance
+    - Pitched to the corporate development director and successfully executed the retrofitting of ten conference rooms with USB-C docking stations, fulfilling the original initiative of increasing productivity in meetings while saving approximately $60,000 compared to the previously chosen solution
 
 -   |                                         |                       |
     |:----------------------------------------|----------------------:|
@@ -87,12 +87,12 @@
     |:-----------------------------------------------------------|--------------------:|
     | **Sammi’s House (Dorm Room Poster and Canvas Printing Small Business)** \| *Shopify, SEO, PPC* | Dec. 2022 – Sep. 2023 |
 
-- Generated gross profit of $1,757.83 on sales of $2342.51 in Q1-Q3, 2023
-- Completed weekly accounting cycle, preparing a general ledger and statements of income and financial position
-- Procured various paper rolls, inks, and packaging supplies based on inventory and projected demand
-- Executed communications strategy through social media content and on campus endorsements
-- Managed Shopify store with over 5000 product variations
-- Ceased operations to pursue more creative and innovative ventures and practice sales as part of a startup
+    - Generated gross profit of $1,757.83 on sales of $2342.51 in Q1-Q3, 2023
+    - Completed weekly accounting cycle, preparing a general ledger and statements of income and financial position
+    - Procured various paper rolls, inks, and packaging supplies based on inventory and projected demand
+    - Executed communications strategy through social media content and on campus endorsements
+    - Managed Shopify store with over 5000 product variations
+    - Ceased operations to pursue more creative and innovative ventures and practice sales as part of a startup
 
 -   |                                                            |                     |
     |:-----------------------------------------------------------|--------------------:|
