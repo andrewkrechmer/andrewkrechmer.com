@@ -6,46 +6,22 @@
 
 # Education
 
--   |                                |                          |
-    |:-------------------------------|-------------------------:|
-    | **University of Waterloo**     |            Kitchener, ON |
-    | *Bachelor of Computer Science* | *Sept. 2022 – Apr. 2027* |
-
 -   |                                       |                          |
     |:--------------------------------------|-------------------------:|
     | **Wilfrid Laurier University**        |            Kitchener, ON |
-    | *Bachelor of Business Administration* | *Sept. 2022 – Apr. 2027* |
+    | *Bachelor of Business Administration* | *Sept. 2022 – Apr. 2026* |
 
 # Experience
 
 -   |                                                            |                     |
     |:-----------------------------------------------------------|--------------------:|
-    | **IT Assistant**                                                | Jun. 2023 – Present |
+    | **IT Assistant**                                                | Jun. 2023 – Aug. 2023 |
     | *Tech Insights* |      *Ottawa, ON* |
 
 - Triaged over 500 support tickets from across the organization, qualifying inbound requests based on hardware/software dependencies, and prioritizing customer issues according to operational severity
 - Closed 394 support tickets by systematically identifying customers’ underlying needs through emails and calls, utilizing documentation and collaborating with IT to prepare effective solutions, presenting customers with contextually relevant recommendations, and following up with key stakeholders to ensure satisfaction
 - Diligently tracked the state of owned tickets and projects in JIRA Service Management and Monday.com, enabling seamless auditing and ensuring SLA compliance
 - Pitched to the corporate development director and successfully executed the retrofitting of ten conference rooms with USB-C docking stations, fulfilling the original initiative of increasing productivity in meetings while saving approximately $60,000 compared to the previously chosen solution
-
--   |                                                            |                     |
-    |:-----------------------------------------------------------|--------------------:|
-    | **Founder**                                                | Dec. 2022 – Present |
-    | *Sammi’s House (Dorm Room Poster and Canvas Printing Small Business)* |      *Ottawa, ON* |
-
-    -    Generated sales of $1221.87 in the first half of 2023
-
-    -    Raised $3000 of capital to purchase large format printing
-        equipment and rights to prints
-
-    -    Developed direct relationship with artists to bring their wall
-        art onto website and create equitable profit share agreements
-
-    -    Executed communications strategy through organic content
-        marketing and endorsements
-
-    -    Set up Shopify back end, front end website, accounting
-        journals, and other small online business functions
 
 -   |                                         |                       |
     |:----------------------------------------|----------------------:|
@@ -74,7 +50,7 @@
 
 -   |                             |                       |
     |:----------------------------|----------------------:|
-    | **iOS Developement Intern** | Sep. 2020 – Jan. 2021 |
+    | **iOS Development Intern** | Sep. 2020 – Jan. 2021 |
     | *Digitera Interactive*      |              *Remote* |
 
     -    Designed and developed an iOS platform for an existing web
@@ -95,7 +71,7 @@
 
 -   |                                         |                       |
     |:----------------------------------------|----------------------:|
-    | **Aduio & Visual Technician**           | Sep. 2019 – Mar. 2022 |
+    | **Audio & Visual Technician**           | Sep. 2019 – Mar. 2022 |
     | *Ottawa-Carleton District School Board* |          *Ottawa, ON* |
 
     -    Operated sound board for 20+ live shows
@@ -107,11 +83,27 @@
 
 # Projects
 
+-   |                                                            |                     |
+    |:-----------------------------------------------------------|--------------------:|
+    | **Sammi’s House (Dorm Room Poster and Canvas Printing Small Business)** \| *Shopify, SEO, PPC* | Dec. 2022 – Sep. 2023 |
+
+- Generated gross profit of $1,757.83 on sales of $2342.51 in Q1-Q3, 2023
+- Completed weekly accounting cycle, preparing a general ledger and statements of income and financial position
+- Procured various paper rolls, inks, and packaging supplies based on inventory and projected demand
+- Executed communications strategy through social media content and on campus endorsements
+- Managed Shopify store with over 5000 product variations
+- Ceased operations to pursue more creative and innovative ventures and practice sales as part of a startup
+
+-   |                                                            |                     |
+    |:-----------------------------------------------------------|--------------------:|
+    | **Motv - Youtube Podcast** \| Dec. 2022 – Present |
+    - Live streamed and posted 38 long-format conversations/interviews, garnering 1.7k views on Youtube
+
 -   |                                                                                  |                       |
     |:---------------------------------------------------------------------------------|----------------------:|
     | **Motv - Events Based Social Networking App** \| *Swift, UIKit, Firebase, Figma* | Jun. 2021 – Jan. 2022 |
 
-    -    Conceptualized and lead team of two other developers to create
+    -    Conceptualized and led team of two other developers to create
         a native iOS app that breaks the gap between in person
         social/music events and the digital world
 
@@ -119,6 +111,6 @@
     |:-----------------------------------------------------------------------|------------------------------:|
     | **Acadium - Consulting Case** \| *Powerpoint Slidedocs, Case analysis* | November 2020 – December 2020 |
 
-    -    Lead a team of four other students to create a 40 slide
+    -    Led a team of four other students to create a 40 slide
         recommendation deck as part of a high school consulting
         competition for the apprenticeship platform Acadium.
